@@ -1,6 +1,6 @@
 # Projet OpenGL : Démonstrateur pédagogique
 
-#### Evan MASSOL - BUT3 INFO - FI
+#### Evan MASSOL
 
 ### 1. Objectif
 
