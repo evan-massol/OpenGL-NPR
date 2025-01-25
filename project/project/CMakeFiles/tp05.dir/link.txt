@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -g CMakeFiles/project.dir/src/main.cpp.o -o project  /usr/lib/x86_64-linux-gnu/libGL.so ../../stbimage/libstbimage.a ../../glad/libglad.a ../../glfw-3.3.8/src/libglfw3.a ../../imgui-1.91.1/libimgui.a ../../glengine/libglengine.a /usr/lib/x86_64-linux-gnu/librt.a -lm -ldl /usr/lib/x86_64-linux-gnu/libX11.so 

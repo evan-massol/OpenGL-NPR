@@ -1,0 +1,2 @@
+/usr/bin/ar qc libglengine.a CMakeFiles/glengine.dir/src/orbitalCamera.cpp.o CMakeFiles/glengine.dir/src/glengine.cpp.o
+/usr/bin/ranlib libglengine.a
